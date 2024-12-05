@@ -1,16 +1,26 @@
-# gem_mvp
+# Grand Egyptian Museum App
 
-The Grand Egyptian Museum app serves as a digital companion for visitors, offering essential features to enhance the experience of exploring one of the world’s most iconic museums. The MVP will focus on delivering a functional and user-friendly interface with key features that cater to both on-site and remote visitors.
+This is an MVP mobile application for the **Grand Egyptian Museum** (GEM). The app enhances the visitor experience by providing a digital companion for navigating the museum, exploring its exhibits, and accessing relevant information.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Museum Overview**: Learn about the Grand Egyptian Museum and its significance.
+- **Interactive Map**: Navigate the museum with a map of digital exhibits.
+- **Exhibit Information**: Get detailed descriptions of artifacts and exhibitions.
+- **AR**: Get details for special items through AR.
+- **Ticketing**: Book tickets and access QR codes for easy entry.
+- **Events and News**: Stay updated with upcoming exhibitions and events.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+To set up and run this project locally, follow the steps below:
+
+### **Clone the repository**:
+
+```bash
+git clone https://github.com/your-username/grand-egyptian-museum-app.git
+cd grand-egyptian-museum-app
