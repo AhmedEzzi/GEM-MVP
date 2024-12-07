@@ -1,3 +1,7 @@
 {
-  "welcome": "welcome"
+  "welcome": "welcome",
+  "upcomingEvents": "Upcoming Events",
+  "availableExperiences": "Available Experiences",
+  "viewMore": "View More",
+  "seeAll": "See all"
 }

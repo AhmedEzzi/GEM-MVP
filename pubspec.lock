@@ -843,7 +843,7 @@ packages:
     source: hosted
     version: "8.10.1"
   shared_preferences:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: shared_preferences
       sha256: "95f9997ca1fb9799d494d0cb2a780fd7be075818d59f00c43832ed112b158a82"
@@ -1024,7 +1024,7 @@ packages:
     source: hosted
     version: "4.5.1"
   vector_graphics:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: vector_graphics
       sha256: "27d5fefe86fb9aace4a9f8375b56b3c292b64d8c04510df230f849850d912cb7"

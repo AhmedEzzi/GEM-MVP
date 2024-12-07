@@ -51,6 +51,8 @@ dependencies:
   easy_localization_loader: ^2.0.2
   easy_localization_generator: ^0.3.3
 
+  vector_graphics: any
+  shared_preferences: any
 dev_dependencies:
   flutter_test:
     sdk: flutter
