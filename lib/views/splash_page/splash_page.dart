@@ -12,7 +12,7 @@ class SplashPage extends StatelessWidget {
       appBar: AppBar(
         backgroundColor: Colors.white,
       ),
-      body: Column(),
+      body: const Column(),
     );
   }
 }
