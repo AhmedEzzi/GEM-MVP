@@ -18,7 +18,6 @@ class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
           IconButton(
             icon: const Icon(Icons.menu),
             onPressed: () async {
-              // Get the position of the icon to show the menu correctly
               final RenderBox button = context.findRenderObject() as RenderBox;
               final Offset offset = button.localToGlobal(Offset.zero);
               _showPopupMenu(context, offset);
