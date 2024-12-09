@@ -54,7 +54,6 @@ void main() async {
           enabled:
               false, // Set to false or true based on whether you want DevicePreview
           builder: (context) {
-            print('Building GemsApp...');
             return const GemMvpApp();
           },
         ),

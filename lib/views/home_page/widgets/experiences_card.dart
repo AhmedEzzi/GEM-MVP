@@ -68,7 +68,7 @@ class ExperiencesCard extends StatelessWidget {
             ),
           ),
           Padding(
-            padding: EdgeInsets.symmetric(horizontal: 16.0),
+            padding: const EdgeInsets.symmetric(horizontal: 16.0),
             child: Text(
               '90-minute',
               style: textTheme.titleSmall?.copyWith(

@@ -50,6 +50,11 @@ dependencies:
   sentry_flutter: ^8.10.1
   easy_localization_loader: ^2.0.2
   easy_localization_generator: ^0.3.3
+  carousel_slider: any
+  cached_network_image: ^3.3.1
+  google_fonts: ^6.1.0
+  motion_tab_bar: ^2.0.4
+  connectivity_plus: any
 
   vector_graphics: any
   shared_preferences: any
