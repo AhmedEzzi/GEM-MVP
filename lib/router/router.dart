@@ -20,6 +20,12 @@ class AppRouter extends RootStackRouter {
           page: HomeRoute.page,
           initial: true,
         ),
+
+        // qr Code page
+        AutoRoute(
+          page: QrCodeRoute.page,
+          // initial: true,
+        ),
         // Auth Pages
       ];
 }

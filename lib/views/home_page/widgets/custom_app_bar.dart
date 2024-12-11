@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:gem_mvp/generated/assets.gen.dart';
+import 'package:gem_mvp/views/qr_code/qr_code_page.dart';
 import 'package:gem_mvp/views/splash_page/splash_page.dart';
 
 class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
@@ -55,8 +56,8 @@ class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
           child: Text("Login"),
         ),
         const PopupMenuItem(
-          value: "More",
-          child: Text("More"),
+          value: "kiosk",
+          child: Text("Kiosks Camera"),
         ),
       ],
     );
@@ -90,11 +91,11 @@ void _navigateToPage(BuildContext context, String selectedOption) {
         MaterialPageRoute(builder: (context) => const SplashPage()),
       );
       break;
-    case "More":
+    case "kiosk":
       // Navigate to More Page
       Navigator.push(
         context,
-        MaterialPageRoute(builder: (context) => const SplashPage()),
+        MaterialPageRoute(builder: (context) => const QrCodePage()),
       );
       break;
     default:

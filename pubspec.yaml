@@ -55,6 +55,7 @@ dependencies:
   google_fonts: ^6.1.0
   motion_tab_bar: ^2.0.4
   connectivity_plus: any
+  mobile_scanner: ^6.0.2
 
   vector_graphics: any
   shared_preferences: any
