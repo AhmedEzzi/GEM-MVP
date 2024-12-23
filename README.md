@@ -21,7 +21,8 @@ This is an MVP mobile application for the **Grand Egyptian Museum** (GEM). The a
   <img src="https://s4.ezgif.com/tmp/ezgif-4-22c4ca536b.gif" alt=MVP" width="700"/>
 </div>
 
-
+## ToDo List
+[ToDo](https://github.com/AhmedEzzi/GEM-MVP/blob/main/Todo.md)
 ## Installation
 
 To set up and run this project locally, follow the steps below:
