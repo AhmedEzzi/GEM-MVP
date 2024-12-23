@@ -14,6 +14,13 @@ This is an MVP mobile application for the **Grand Egyptian Museum** (GEM). The a
 - **Events and News**: Stay updated with upcoming exhibitions and events.
 
 ---
+## MVP
+
+
+<div align="center">
+  <img src="https://s4.ezgif.com/tmp/ezgif-4-22c4ca536b.gif" alt=MVP" width="700"/>
+</div>
+
 
 ## Installation
 
@@ -22,5 +29,5 @@ To set up and run this project locally, follow the steps below:
 ### **Clone the repository**:
 
 ```bash
-git clone https://github.com/your-username/grand-egyptian-museum-app.git
+git clone https://github.com/AhmedEzzi/grand-egyptian-museum-app.git
 cd grand-egyptian-museum-app
