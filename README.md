@@ -16,8 +16,10 @@ This is an MVP mobile application for the **Grand Egyptian Museum** (GEM). The a
 ---
 ## MVP
 
-<video src="https://github.com/AhmedEzzi/GEM-MVP/blob/main/MVP.mp4" controls="controls" style="max-width: 100%;">
-</video>
+
+<div align="center">
+  <img src="https://s4.ezgif.com/tmp/ezgif-4-22c4ca536b.gif" alt=MVP" width="700"/>
+</div>
 
 
 ## Installation
